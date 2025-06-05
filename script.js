@@ -28,7 +28,7 @@ function initPage() {
             imageItem.className = 'image-item';
             const isImage = isImageFile(image.name);
             imageItem.innerHTML = `
-                <a href="view.html?image=${encodeURIComponent(image.name)}">
+                <a href="images/${image.name}">
                     <img src="images/${image.name}" alt="${image.title}" 
                          class="${isImage ? 'image-preview' : ''}"
                          ${isImage ? 'data-image="true"' : ''}>
