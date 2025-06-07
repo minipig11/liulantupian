@@ -1,10 +1,11 @@
-var imageList = [
-  "IMG_20240705_192118.jpg",
-  "3801213fb80e7bec2f6959f0f84007359a506be8.jpeg",
+module.exports = [
   "f7246b600c338744aa196bb879d4a9f7d52aa07b.jpeg",
+  "3801213fb80e7bec2f6959f0f84007359a506be8.jpeg",
+  "mmexportf78f13d10f1e1ef3ef3b8ba8176e274b_1722130625126.jpeg",
   "IMG_0013.PNG",
   "IMG_20240127_220550.jpg",
   "IMG_20240612_140923.jpg",
+  "IMG_20240705_192118.jpg",
   "IMG_8031.JPG",
   "IMG_9090.PNG",
   "IMG_9133.PNG",
@@ -36,7 +37,6 @@ var imageList = [
   "mmexportd07e00bdbd359baff9c1c6659f99d9e6_1701690619825.jpeg",
   "mmexportdc0257a79183e186bf557f6483a5208b_1708825757495.jpeg",
   "mmexporte023a7d0c45e94e041816a3888d81e3d_1701690623316.jpeg",
-  "mmexportf78f13d10f1e1ef3ef3b8ba8176e274b_1722130625126.jpeg",
   "Screenshot_20240206_174708.jpg",
   "Screenshot_20240218_091417.jpg",
   "Screenshot_20240317_125821.jpg",
@@ -79,5 +79,3 @@ var imageList = [
   "Screenshot_20240820_122031.jpg",
   "Screenshot_20240820_122035.jpg"
 ];
-
-export default imageList;
