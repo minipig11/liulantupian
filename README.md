@@ -12,7 +12,7 @@
 
 1. 将图片文件放在 `images` 文件夹中
 2. 访问 `index.html` 查看图片列表
-3. 点击图片或直接访问 `view.html?image=图片名称` 查看单张图片
+3. 点击图片或直接访问 [`view.html?image=图片名称](https://liulantupian.sicilyhuang.top/images/$file)` 查看单张图片
 
 ## 文件结构
 
